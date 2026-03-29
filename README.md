@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 Student Information
 
-**Name:** Aviral Jain
+**Name:** Mradul Sharma
 **University:** VIT Bhopal University
 **Role:** Student Digital Ambassador
 **Project:** Digital Literacy & Professional Online Presence Portfolio
@@ -109,7 +109,7 @@ These platforms will help in internships, projects, and career development over 
 * 5 questions included
 * Multiple choice and short answer
 * Responses stored in Google Sheets
-* Link for google form - (https://docs.google.com/forms/d/e/1FAIpQLScjxZQQc0yjx7HnvDm-P43BLWjhYZrijin82fFDniR_DIooUg/viewform?usp=publish-editor)
+* Link for google form - ([https://docs.google.com/forms/d/e/1FAIpQLScjxZQQc0yjx7HnvDm-P43BLWjhYZrijin82fFDniR_DIooUg/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSfJMx0_1T-8TolZKnTDVOXtLbX9A_iuBVgg9Va_LHIhmVQiSg/viewform?usp=publish-editor))
 
 This task improved collaboration and practical tool usage.
 
@@ -197,6 +197,6 @@ It promotes safe internet practices, responsible communication, and strong onlin
 
 ---
 
-**Student Digital Ambassador – Aviral Jain**
-**Registration no. - 25BCE10216**
+**Student Digital Ambassador – Mradul Sharma**
+**Registration no. - 25BCE10205**
 **VIT Bhopal University**
